@@ -1,6 +1,4 @@
 {
     "plugins": {
-        "offline-maps": "",
-        "ft-test": "git@github.com:gmh04/fieldtrip-plugins-test.git"
     }
 }
